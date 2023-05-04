@@ -7,7 +7,7 @@
 - [zotero_tldr_api](https://github.com/sobamchan/zotero_tldr_api)
   - Generate summaries for papers in your Zotero library
 - [sienna](https://github.com/sobamchan/sienna)
-  - SImplE jsoN liNe pArser)
+  - SImplE jsoN liNe pArser
 - [gosei](https://github.com/sobamchan/gosei)
   - A CLI tool to generate collage from two photos.
 - [engawa](https://github.com/sobamchan/engawa)
