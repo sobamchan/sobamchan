@@ -14,6 +14,5 @@
   - Python package to pre-train BART from scratch with your corpus
 - [chutoro](https://github.com/sobamchan/chutoro)
   - Hilight sentences in PDF files automatically with outputs of your classification model.
-- [pytorch-lightning-transformers](https://github.com/sobamchan/pytorch-lightning-transformers)
 - [madai](https://github.com/sobamchan/madai)
   - Compute similarity between two corpus using chi2
